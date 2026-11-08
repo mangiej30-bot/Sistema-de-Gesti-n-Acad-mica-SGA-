@@ -1,0 +1,6 @@
+{
+  "name": "SIGA - Sistema de Gestión Académica",
+  "description": "Sistema integral de gestión académica con arquitectura en capas, control RBAC, gestión curricular, matrículas transaccionales y trazabilidad de requerimientos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
